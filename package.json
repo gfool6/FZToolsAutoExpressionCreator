@@ -1,7 +1,7 @@
 {
     "name": "com.gfool6.fztools.auto-expression-creator",
     "displayName": "FZ Auto Expression Creator",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2022.3",
     "description": "gfool6's avatar custom tool.",
     "vpmDependencies": {
